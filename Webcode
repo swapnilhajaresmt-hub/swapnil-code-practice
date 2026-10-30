@@ -1,8 +1,0 @@
-index.html
-style.css
-script.js
-manifest.json
-"code-runner.executorMap": {
-    "cpp": "g++ $fileName -o $fileNameWithoutExt"
-},
-"code-runner.runInTerminal": true
